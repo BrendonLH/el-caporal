@@ -1,0 +1,26 @@
+{
+  "name": "el-caporal",
+  "version": "1.0.0",
+  "description": "Website design for El Caporal Mexican Restaurant",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrendonLH/el-caporal.git"
+  },
+  "keywords": [
+    "restaurant",
+    "local",
+    "mexican",
+    "food",
+    "dining"
+  ],
+  "author": "Brendon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrendonLH/el-caporal/issues"
+  },
+  "homepage": "https://github.com/BrendonLH/el-caporal#readme"
+}
