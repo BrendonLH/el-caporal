@@ -1,27 +1,50 @@
 * {
     margin: 0;
+    padding: 0;
+    font-size: 1.1em;
 }
-#nav-bar ul {
-    border: 2px solid red;
-    display: flex;
-    flex-direction: row;
-    justify-content: start;
+
+header{
+    border: 5px solid lightblue;
+    position: relative;
 }
+
+
 li {
     list-style-type:none;
 }
+
+li a {
+    text-decoration: none;
+    color: inherit;
+    
+}
+.nav-links {
+    display: none;
+}
 main {
     border: 5px solid blue;
-    height:100vh;
     display: flex;
     flex-direction: column;
     text-align: center;
 }
-main #image-div {
-    margin: 0 auto;
-    height: 200px;
-    width: 100%;
+#landing-section {
+    height: 100vh;
+}
+footer {
+    border: 5px dashed lightblue;
+}
+img {
+    height: 50%;
+    width: 90vw;
+    border: 1px solid orange;
 }
 section {
     border: 2px solid green;
+}
+#title {
+    border: 2px dashed red;
+}
+#about {
+    border:  2px dashed green;
 }
